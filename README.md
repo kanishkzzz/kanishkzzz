@@ -35,7 +35,7 @@ MongoDB • PostgreSQL • Supabase
 
 **Tools**
 
-Git • GitHub • Axios • VS Code
+Git • GitHub • VS Code
 
 ---
 
