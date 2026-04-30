@@ -1,101 +1,85 @@
-# Hi, I'm Kanishk 👋
+<!-- kanishkzzz · github profile -->
 
-Full-stack developer focused on building scalable web applications and backend systems.
+<div align="center">
 
-Currently exploring **system design, backend architecture, and performance optimization** while building real-world projects with modern web stacks.
+```
+// kanishkzzz
+```
 
----
+</div>
 
-## 🚀 About Me
+# Kanishk Negi
 
-- 🎓 Engineering Physics @ Delhi Technological University (Minor in Computer Science)
-- 💻 Web Development Intern at **BharatFare**
-- ⚙️ Interested in **backend engineering, system design, and scalable architectures**
-- 🧠 Currently improving **Data Structures & Algorithms**
+> Full-stack developer building scalable web apps. Engineering Physics @ DTU.  
+> Turning caffeine & curiosity into production-grade systems.
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-JavaScript • Python
-
-**Frontend**
-
-React • Next.js • HTML • CSS • TailwindCSS
-
-**Backend**
-
-Node.js • Express.js • REST APIs
-
-**Databases**
-
-MongoDB • PostgreSQL • Supabase
-
-**Tools**
-
-Git • GitHub • VS Code
+`Available for work` &nbsp; `Delhi, India` &nbsp; `MERN Stack` &nbsp; `Open Source`
 
 ---
 
-## 📌 Featured Projects
+## // about
 
-### 🍔 Food Partner Platform
-Full-stack food discovery platform with short-form food reels.
-
-**Tech:** Next.js • Node.js • MongoDB • ImageKit  
-
-Features:
-- Food reels upload system
-- Partner dashboard for content management
-- Media optimization pipeline
-
-🔗 Repo:  
-https://github.com/kanishkzzz/Zomato
+```
+→  Engineering Physics @ Delhi Technological University  ·  Minor in CS
+→  Web Dev Intern @ BharatFare
+→  Deep into backend architecture, system design & performance optimization
+→  Sharpening DSA daily
+```
 
 ---
 
-### 💸 Billcious – Expense Tracker
-Real-time expense splitting and settlement application.
+## // stack
 
-**Tech:** Next.js • Supabase • PostgreSQL  
-
-Features:
-- Real-time expense management
-- Server-side settlement logic
-- Secure authentication
-
-🔗 Repo:  
-https://github.com/kanishkzzz/Billcious
+| | |
+|---|---|
+| **Languages** | JavaScript · Python |
+| **Frontend** | React · Next.js · HTML · CSS · TailwindCSS |
+| **Backend** | Node.js · Express.js · REST APIs |
+| **Databases** | MongoDB · PostgreSQL · Supabase |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
+## // projects
 
-**Tech:** React • TailwindCSS  
+**[Food Partner Platform](https://github.com/kanishkzzz/Zomato)**  
+Full-stack food discovery platform with short-form food reels, partner dashboard & media optimization pipeline.  
+`Next.js` `Node.js` `MongoDB` `ImageKit`
 
-Features:
-- Responsive UI
-- Dark mode animations
-- Contact form integration
+**[Billcious — Expense Tracker](https://github.com/kanishkzzz/Billcious)**  
+Real-time expense splitting & settlement app with server-side logic and secure auth.  
+`Next.js` `Supabase` `PostgreSQL`
 
-🔗 Repo:  
-https://github.com/kanishkzzz/first-react-tailwind-portfolio
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact)
+**[Portfolio Website](https://github.com/kanishkzzz/first-react-tailwind-portfolio)**  
+Personal portfolio with responsive design, dark mode animations & contact form.  
+`React` `TailwindCSS`
 
 ---
 
-## 📫 Connect With Me
+## // stats
 
-📧 Email: kanishk8negi@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/kanishk-negi  
-🐙 GitHub: https://github.com/kanishkzzz
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true&hide_border=true&bg_color=00000000&title_color=888780&text_color=888780&icon_color=378ADD" height="150" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&hide_border=true&bg_color=00000000&title_color=888780&text_color=888780" height="150" />
+
+</div>
+
+---
+
+## // connect
+
+📧 &nbsp; [kanishk8negi@gmail.com](mailto:kanishk8negi@gmail.com)  
+💼 &nbsp; [linkedin.com/in/kanishk-negi-264018302](https://linkedin.com/in/kanishk-negi-264018302)  
+🐙 &nbsp; [github.com/kanishkzzz](https://github.com/kanishkzzz)
+
+---
+
+<div align="center">
+
+```
+always shipping something new.
+```
+
+</div>
