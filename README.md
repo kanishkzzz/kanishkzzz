@@ -40,10 +40,10 @@
 
 ```text
 Name       : Kanishk Negi
-Role       : AI & Backend Engineer
+Role       : Full-Stack Engineer
 Education  : B.Tech, DTU (2026)
 Focus      : AI Agents, APIs, Distributed Systems
-Currently  : Building production-ready systems
+Currently  @Blogy
 ```
 
 - Building scalable backend systems with Python, FastAPI, Node.js and TypeScript.
@@ -69,7 +69,7 @@ Currently  : Building production-ready systems
 
 <!-- =============== CONNECT =============== -->
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">Connect me on</h2>
 
 <div align="center">
 
@@ -254,7 +254,7 @@ A multi-party expense management application with transactional settlement logic
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=555555&label=PROFILE+VIEWS"
+<img src="https://komarev.com/ghpvc/?username=kanishkzzz&style=flat-square&color=555555&label=PROFILE+VIEWS"
      alt="Profile views"/>
 
 </div>
