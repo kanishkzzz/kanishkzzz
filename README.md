@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL"
+<img src="spideyBanner.jpg"
      width="100%"
      alt="Pixel art hero banner"/>
 
@@ -22,9 +22,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kanishkzzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-negi-264018302/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishk8negi@gmail.com)
 
 </div>
 
@@ -57,7 +57,7 @@ Currently  : Building production-ready systems
 <td width="40%" align="center" valign="middle">
 
 <!-- Replace with your own transparent PNG, GIF, or pixel-art illustration -->
-<img src="YOUR_ABOUT_IMAGE_URL"
+<img src="penguinCoder.jpg"
      width="100%"
      alt="Backend engineer pixel-art illustration"/>
 
@@ -73,15 +73,15 @@ Currently  : Building production-ready systems
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kanishkzzz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kanishk-negi-264018302/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kanishk8negi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
