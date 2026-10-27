@@ -16,7 +16,7 @@
 
 # Hi 👋, I'm Kanishk Negi
 
-### Founding AI & Backend Engineer | LLMs & Agents | Distributed Systems
+### Full-Stack Developer leaning towards Backend | LLMs & Agents | Distributed Systems
 
 <samp>Building reliable systems. Exploring intelligent agents. Shipping things that last.</samp>
 
