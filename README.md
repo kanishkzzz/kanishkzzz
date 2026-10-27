@@ -1,97 +1,65 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kanishk+Negi;Full-Stack+%2B+Agentic+AI+Developer;Building+scalable+web+apps+%26+AI+agents;Always+shipping+something+new." alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Delhi%2C%20India-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engineering%20Physics%20%40%20DTU-orange?style=for-the-badge" />
-</p>
+<!-- =========================================================
+     KANISHK NEGI — GITHUB PROFILE README
+     Replace YOUR_GITHUB_USERNAME and the image placeholders.
+     ========================================================= -->
 
-<p align="center">
-  <a href="https://first-react-tailwind-portfolio-yfr8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kanishk-negi-264018302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kanishk8negi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<!-- =============== HERO BANNER =============== -->
 
----
+<div align="center">
 
-### 🚀 About Me
+<img src="YOUR_BANNER_IMAGE_URL"
+     width="100%"
+     alt="Pixel art hero banner"/>
 
-- 🔭 Building **multi-agent AI systems** — RAG pipelines, LLM observability, async agent orchestration
-- 🎓 Engineering Physics @ Delhi Technological University · Minor in CS
-- 💼 Web Dev Intern @ BharatFare
-- ⚙️ Deep into backend architecture, system design & performance optimization
-- 🌱 Sharpening DSA daily
-- ⚡ Fun fact: always shipping something new
+<br/>
 
----
+# Hi 👋, I'm Kanishk Negi
 
-### 🛠️ Tech Stack
+### Founding AI & Backend Engineer | LLMs & Agents | Distributed Systems
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<samp>Building reliable systems. Exploring intelligent agents. Shipping things that last.</samp>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ChromaDB%20(RAG)-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Laminar%20Observability-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/asyncio-6366F1?style=flat-square" />
-</p>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+<!-- =============== ABOUT ME =============== -->
+
+<h2 align="center">🚀 About Me</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="middle">
 
-**[🤖 PR Review Intelligence Agent](https://github.com/kanishkzzz/PR-Review-Intelligence-Agent)**
+```text
+Name       : Kanishk Negi
+Role       : AI & Backend Engineer
+Education  : B.Tech, DTU (2026)
+Focus      : AI Agents, APIs, Distributed Systems
+Currently  : Building production-ready systems
+```
 
-Multi-agent GitHub PR review system — parallel async agents, RAG-based context retrieval via ChromaDB, full webhook integration. Solved a core observability challenge by swapping SSE streaming for a plain JSON endpoint + Laminar `force_flush()`.
+- Building scalable backend systems with Python, FastAPI, Node.js and TypeScript.
+- Exploring LLM applications, RAG, tool calling and multi-agent orchestration.
+- Interested in concurrency, caching, message queues and system reliability.
+- Focused on clean architecture, rigorous testing and practical AI engineering.
 
-`FastAPI` `React/Vite` `ChromaDB` `Laminar`
-
-</td>
-<td width="50%">
-
-**[🍔 FoodInt — Food Partner Platform](https://github.com/kanishkzzz/FoodInt)**
-
-Location-based food discovery platform with short-form food reels, partner dashboard, geospatial queries, and a media optimization pipeline.
-
-`Next.js` `Node.js` `MongoDB` `ImageKit`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[💸 Billicious — Expense Tracker](https://github.com/kanishkzzz/Billicious)**
-
-Real-time group expense splitting & settlement app with server-side logic and secure auth.
-
-`Next.js` `Supabase` `PostgreSQL`
+**Current goal:** Build reliable software that solves real problems.
 
 </td>
-<td width="50%">
+<td width="40%" align="center" valign="middle">
 
-**[🌐 Portfolio Website](https://first-react-tailwind-portfolio-yfr8.vercel.app/)**
-
-Personal portfolio with responsive design, dark mode animations & contact form.
-
-`React` `TailwindCSS`
+<!-- Replace with your own transparent PNG, GIF, or pixel-art illustration -->
+<img src="YOUR_ABOUT_IMAGE_URL"
+     width="100%"
+     alt="Backend engineer pixel-art illustration"/>
 
 </td>
 </tr>
@@ -99,17 +67,194 @@ Personal portfolio with responsive design, dark mode animations & contact form.
 
 ---
 
-### 📊 GitHub Stats
+<!-- =============== CONNECT =============== -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">🤝 Connect</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanishkzzz&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center"><i>always shipping something new.</i></p>
+<!-- =============== TECH STACK =============== -->
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" alt="Programming languages"/>
+
+</div>
+
+<h3 align="center">Backend & Databases</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb,redis,supabase&theme=dark" alt="Backend and databases"/>
+
+</div>
+
+<h3 align="center">AI, Infrastructure & Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kafka,git,github,githubactions,linux,aws,vscode&theme=dark" alt="Infrastructure and development tools"/>
+
+</div>
+
+---
+
+<!-- =============== FEATURED PROJECTS =============== -->
+
+<h2 align="center">⚡ Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 BugBeGone</h3>
+
+<p align="center">AI PR Review & Orchestration Agent</p>
+
+An event-driven AI agent that analyzes pull requests, retrieves relevant code context and publishes structured review results.
+
+**Stack:** Python, FastAPI, LangGraph, RAG, ChromaDB
+
+<p align="center">
+
+<a href="YOUR_BUGBEGONE_GITHUB_URL">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View BugBeGone"/>
+</a>
+
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎟️ ArriveAll</h3>
+
+<p align="center">High-Concurrency Ticketing Backend</p>
+
+A ticket-booking backend focused on reliable seat reservations, distributed locks and safe transaction handling under concurrent traffic.
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Redis, Drizzle ORM
+
+<p align="center">
+
+<a href="YOUR_ARRIVEALL_GITHUB_URL">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ArriveAll"/>
+</a>
+
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💸 Billicious</h3>
+
+<p align="center">Transactional Expense Splitting</p>
+
+A multi-party expense management application with transactional settlement logic, real-time synchronization and authentication.
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Supabase
+
+<p align="center">
+
+<a href="YOUR_BILLICIOUS_GITHUB_URL">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Billicious"/>
+</a>
+
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 What I'm Exploring</h3>
+
+<p align="center">AI Engineering & Distributed Systems</p>
+
+- Agent orchestration and tool calling
+- Retrieval-augmented generation
+- Evaluation datasets and observability
+- Concurrency, retries and idempotency
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- =============== GITHUB STATISTICS =============== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img width="49%"
+     src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+     alt="GitHub statistics"/>
+
+<img width="49%"
+     src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
+     alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="55%"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark"
+     alt="Most-used programming languages"/>
+
+</div>
+
+---
+
+<!-- =============== ACTIVITY GRAPH =============== -->
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
+     width="100%"
+     alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<!-- =============== FOOTER ART =============== -->
+
+<div align="center">
+
+<!-- Optional replaceable footer illustration -->
+<img src="YOUR_FOOTER_IMAGE_URL"
+     width="100%"
+     alt="Pixel art footer"/>
+
+<br/>
+
+<samp>Clean code. Reliable systems. Continuous learning.</samp>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=555555&label=PROFILE+VIEWS"
+     alt="Profile views"/>
+
+</div>
