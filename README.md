@@ -178,7 +178,7 @@ A multi-party expense management application with transactional settlement logic
 <p align="center">
 
 <a href="https://github.com/kanishkzzz/Billcious">
-<img src="datacat.jpg" alt="View Billicious"/>
+<img src="datcat.jpg" alt="View Billicious"/>
 </a>
 
 </p>
