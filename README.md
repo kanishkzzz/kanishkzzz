@@ -137,8 +137,8 @@ An event-driven AI agent that analyzes pull requests, retrieves relevant code co
 
 <p align="center">
 
-<a href="YOUR_BUGBEGONE_GITHUB_URL">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View BugBeGone"/>
+<a href="https://github.com/kanishkzzz/PR-Review-Intelligence-Agent">
+<img src="chinkas.jpg" alt="View BugBeGone"/>
 </a>
 
 </p>
@@ -156,8 +156,8 @@ A ticket-booking backend focused on reliable seat reservations, distributed lock
 
 <p align="center">
 
-<a href="YOUR_ARRIVEALL_GITHUB_URL">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ArriveAll"/>
+<a href="https://github.com/kanishkzzz/ArriveALL">
+<img src="musie.jpg" alt="View ArriveAll"/>
 </a>
 
 </p>
@@ -177,8 +177,8 @@ A multi-party expense management application with transactional settlement logic
 
 <p align="center">
 
-<a href="YOUR_BILLICIOUS_GITHUB_URL">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Billicious"/>
+<a href="https://github.com/kanishkzzz/Billcious">
+<img src="datacat.jpg" alt="View Billicious"/>
 </a>
 
 </p>
@@ -208,17 +208,17 @@ A multi-party expense management application with transactional settlement logic
 <div align="center">
 
 <img width="49%"
-     src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+     src="https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
      alt="GitHub statistics"/>
 
 <img width="49%"
-     src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
+     src="https://streak-stats.demolab.com?user=kanishkzzz&theme=github-dark-blue&hide_border=true"
      alt="GitHub contribution streak"/>
 
 <br/><br/>
 
 <img width="55%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&hide_border=true&theme=github_dark"
      alt="Most-used programming languages"/>
 
 </div>
@@ -231,7 +231,7 @@ A multi-party expense management application with transactional settlement logic
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkzzz&theme=github-compact&hide_border=true&area=true"
      width="100%"
      alt="GitHub contribution activity graph"/>
 
@@ -244,7 +244,7 @@ A multi-party expense management application with transactional settlement logic
 <div align="center">
 
 <!-- Optional replaceable footer illustration -->
-<img src="YOUR_FOOTER_IMAGE_URL"
+<img src="twinks.jpg"
      width="100%"
      alt="Pixel art footer"/>
 
