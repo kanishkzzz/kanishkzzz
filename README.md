@@ -14,7 +14,7 @@
 
 <br/>
 
-# Hi 👋, I'm Kanishk Negi
+# Hi! I'm Kanishk...
 
 ### Full-Stack Developer leaning towards Backend | LLMs & Agents | Distributed Systems
 
@@ -43,12 +43,11 @@ Name       : Kanishk Negi
 Role       : Full-Stack Engineer
 Education  : B.Tech, DTU (2026)
 Focus      : AI Agents, APIs, Distributed Systems
-Currently  @Blogy
+Currently  : Blogy
 ```
 
 - Building scalable backend systems with Python, FastAPI, Node.js and TypeScript.
 - Exploring LLM applications, RAG, tool calling and multi-agent orchestration.
-- Interested in concurrency, caching, message queues and system reliability.
 - Focused on clean architecture, rigorous testing and practical AI engineering.
 
 **Current goal:** Build reliable software that solves real problems.
