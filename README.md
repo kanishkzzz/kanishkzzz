@@ -206,23 +206,26 @@ A multi-party expense management application with transactional settlement logic
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true&theme=github_dark"
-alt="GitHub Stats"/>
+     src="https://github-readme-stats-two-alpha-89.vercel.app/api?username=kanishkzzz&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+     alt="GitHub statistics"/>
 
+<!-- GitHub Streak -->
 <img width="49%"
-src="https://streak-stats.demolab.com?user=kanishkzzz&theme=github-dark-blue"
-alt="GitHub Streak"/>
+     src="https://streak-stats.demolab.com?user=kanishkzzz&theme=github-dark-blue&hide_border=true"
+     alt="GitHub contribution streak"/>
 
 <br/><br/>
 
+<!-- Top Languages -->
 <img width="55%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&theme=github_dark"
-alt="Top Languages"/>
+     src="https://github-readme-stats-two-alpha-89.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&hide_border=true&theme=github_dark"
+     alt="Most-used programming languages"/>
 
 </div>
 
----
+<!-- Activity Graph -->
 
 <h2 align="center">📈 Activity Graph</h2>
 
