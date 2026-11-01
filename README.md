@@ -207,32 +207,30 @@ A multi-party expense management application with transactional settlement logic
 <div align="center">
 
 <img width="49%"
-     src="https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-     alt="GitHub statistics"/>
+src="https://github-readme-stats.vercel.app/api?username=kanishkzzz&show_icons=true&theme=github_dark"
+alt="GitHub Stats"/>
 
 <img width="49%"
-     src="https://streak-stats.demolab.com?user=kanishkzzz&theme=github-dark-blue&hide_border=true"
-     alt="GitHub contribution streak"/>
+src="https://streak-stats.demolab.com?user=kanishkzzz&theme=github-dark-blue"
+alt="GitHub Streak"/>
 
 <br/><br/>
 
 <img width="55%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&hide_border=true&theme=github_dark"
-     alt="Most-used programming languages"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkzzz&layout=compact&theme=github_dark"
+alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- =============== ACTIVITY GRAPH =============== -->
-
 <h2 align="center">📈 Activity Graph</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkzzz&theme=github-compact&hide_border=true&area=true"
-     width="100%"
-     alt="GitHub contribution activity graph"/>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkzzz&theme=github-compact"
+alt="GitHub Activity Graph"/>
 
 </div>
 
